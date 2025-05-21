@@ -230,7 +230,7 @@ def main(fp_gt_sens_poses, fp_outcome):
       if loop_results[i][2] >= sim_thres and gt[int(loop_results[i][0])] == 1:
         index = int(loop_results[i][0])
         plt.scatter(x_cord[index], z_cord[index], c="r")
-      if loop_results[i][2] > =sim_thres and gt[int(loop_results[i][0])] == 0:
+      if loop_results[i][2] >= sim_thres and gt[int(loop_results[i][0])] == 0:
         index = int(loop_results[i][0])
         plt.scatter(x_cord[index], z_cord[index], c="b")
 
