@@ -1,0 +1,546 @@
+
+=== Time Profiling @2025-05-11 Sun 08:51:55 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 09:22:05 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 09:22:28 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 09:25:12 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 09:27:11 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 09:42:28 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 09:45:36 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 09:50:43 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 10:09:24 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 10:11:35 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-11 Sun 10:41:59 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.58e-02   4.13e-03   1.58e-02      89.00      89.00
+    2        Constell      72670   5.05e-05   3.67e-05   9.02e-04       5.07      94.06
+    3          L2 opt       4071   5.53e-04   1.79e-03   5.53e-04       3.11      97.17
+    1      KNN search      72670   2.44e-05   1.77e-05   4.35e-04       2.44      99.61
+    4 Update database       4071   6.86e-05   1.85e-04   6.86e-05       0.39     100.00
+    *            *sum       4071          *          *   1.78e-02          *          *
+
+=== Time Profiling @2025-05-11 Sun 10:43:45 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.60e-02   4.36e-03   1.60e-02      89.11      89.11
+    2        Constell      72670   5.06e-05   3.68e-05   9.03e-04       5.02      94.14
+    3          L2 opt       4071   5.52e-04   1.79e-03   5.52e-04       3.07      97.20
+    1      KNN search      72670   2.44e-05   1.78e-05   4.36e-04       2.42      99.62
+    4 Update database       4071   6.77e-05   1.86e-04   6.77e-05       0.38     100.00
+    *            *sum       4071          *          *   1.80e-02          *          *
+
+=== Time Profiling @2025-05-11 Sun 20:43:30 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4661   1.70e-02   5.84e-03   1.70e-02      89.68      89.68
+    2        Constell      82949   5.56e-05   3.90e-05   9.90e-04       5.22      94.90
+    1      KNN search      82949   2.84e-05   2.25e-05   5.05e-04       2.67      97.57
+    3          L2 opt       4661   3.77e-04   6.74e-04   3.77e-04       1.99      99.56
+    4 Update database       4661   8.37e-05   2.45e-04   8.37e-05       0.44     100.00
+    *            *sum       4661          *          *   1.90e-02          *          *
+
+=== Time Profiling @2025-05-12 Mon 15:14:54 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-12 Mon 15:15:54 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2715   1.72e-02   6.23e-03   1.72e-02      92.80      92.80
+    2        Constell      48537   4.34e-05   3.41e-05   7.75e-04       4.17      96.97
+    1      KNN search      48537   1.82e-05   1.38e-05   3.25e-04       1.75      98.72
+    3          L2 opt       2715   1.88e-04   2.89e-04   1.88e-04       1.01      99.73
+    4 Update database       2715   5.04e-05   1.75e-04   5.04e-05       0.27     100.00
+    *            *sum       2715          *          *   1.86e-02          *          *
+
+=== Time Profiling @2025-05-12 Mon 16:43:30 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        652   1.91e-02   7.14e-03   1.91e-02      98.04      98.04
+    2        Constell      11717   1.39e-05   2.01e-05   2.50e-04       1.29      99.33
+    1      KNN search      11717   4.80e-06   5.18e-06   8.62e-05       0.44      99.77
+    3          L2 opt        652   2.95e-05   1.27e-04   2.95e-05       0.15      99.93
+    4 Update database        652   1.44e-05   5.82e-05   1.44e-05       0.07     100.00
+    *            *sum        652          *          *   1.95e-02          *          *
+
+=== Time Profiling @2025-05-12 Mon 21:11:16 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        653   4.26e-03   1.27e-03   4.26e-03      91.54      91.54
+    2        Constell      11735   1.44e-05   2.03e-05   2.59e-04       5.58      97.12
+    1      KNN search      11735   4.89e-06   5.35e-06   8.79e-05       1.89      99.01
+    3          L2 opt        653   3.05e-05   1.15e-04   3.05e-05       0.66      99.67
+    4 Update database        653   1.55e-05   6.32e-05   1.55e-05       0.33     100.00
+    *            *sum        653          *          *   4.65e-03          *          *
+
+=== Time Profiling @2025-05-13 Tue 09:22:01 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        741   2.01e-02   7.63e-03   2.01e-02      97.59      97.59
+    2        Constell      13318   1.71e-05   2.34e-05   3.08e-04       1.50      99.09
+    1      KNN search      13318   7.69e-06   6.82e-06   1.38e-04       0.67      99.76
+    3          L2 opt        741   3.02e-05   1.13e-04   3.02e-05       0.15      99.91
+    4 Update database        741   1.87e-05   8.41e-05   1.87e-05       0.09     100.00
+    *            *sum        741          *          *   2.06e-02          *          *
+
+=== Time Profiling @2025-05-13 Tue 17:14:04 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2834   1.31e-02   7.16e-03   1.31e-02      90.75      90.75
+    2        Constell      50679   4.27e-05   3.38e-05   7.63e-04       5.29      96.04
+    1      KNN search      50679   1.84e-05   1.41e-05   3.28e-04       2.28      98.32
+    3          L2 opt       2834   1.91e-04   2.95e-04   1.91e-04       1.32      99.64
+    4 Update database       2834   5.13e-05   1.76e-04   5.13e-05       0.36     100.00
+    *            *sum       2834          *          *   1.44e-02          *          *
+
+=== Time Profiling @2025-05-14 Wed 15:49:14 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-14 Wed 16:10:47 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4661   1.68e-02   5.47e-03   1.68e-02      90.05      90.05
+    2        Constell      82949   5.46e-05   3.67e-05   9.71e-04       5.21      95.27
+    1      KNN search      82949   2.66e-05   1.92e-05   4.73e-04       2.54      97.81
+    3          L2 opt       4661   3.30e-04   5.21e-04   3.30e-04       1.77      99.58
+    4 Update database       4661   7.74e-05   2.25e-04   7.74e-05       0.42     100.00
+    *            *sum       4661          *          *   1.86e-02          *          *
+
+=== Time Profiling @2025-05-14 Wed 16:28:50 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        218   1.63e-02   5.81e-03   1.63e-02      99.92      99.92
+    4 Update database        218   7.49e-06   2.87e-06   7.49e-06       0.05      99.96
+    3          L2 opt        218   3.03e-06   2.11e-06   3.03e-06       0.02      99.98
+    1      KNN search       3924   1.67e-07   4.16e-07   3.00e-06       0.02     100.00
+    2        Constell       3924   1.78e-08   1.90e-08   3.20e-07       0.00     100.00
+    *            *sum        218          *          *   1.64e-02          *          *
+
+=== Time Profiling @2025-05-14 Wed 16:51:33 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        257   6.63e-03   5.70e-03   6.63e-03      99.60      99.60
+    4 Update database        257   1.09e-05   1.84e-05   1.09e-05       0.16      99.77
+    2        Constell       4617   3.51e-07   2.81e-06   6.30e-06       0.09      99.86
+    1      KNN search       4617   3.09e-07   1.06e-06   5.55e-06       0.08      99.94
+    3          L2 opt        257   3.74e-06   1.89e-06   3.74e-06       0.06     100.00
+    *            *sum        257          *          *   6.65e-03          *          *
+
+=== Time Profiling @2025-05-15 Thu 10:00:23 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        474   2.32e-02   6.97e-03   2.32e-02      99.07      99.07
+    2        Constell       8518   8.00e-06   1.44e-05   1.44e-04       0.62      99.69
+    1      KNN search       8518   2.80e-06   3.86e-06   5.04e-05       0.22      99.90
+    4 Update database        474   1.42e-05   5.49e-05   1.42e-05       0.06      99.96
+    3          L2 opt        474   8.31e-06   3.56e-05   8.31e-06       0.04     100.00
+    *            *sum        474          *          *   2.34e-02          *          *
+
+=== Time Profiling @2025-05-15 Thu 10:10:02 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        588   6.75e-03   6.08e-03   6.75e-03      95.07      95.07
+    2        Constell      10565   1.28e-05   2.00e-05   2.29e-04       3.23      98.30
+    1      KNN search      10565   4.35e-06   5.49e-06   7.81e-05       1.10      99.40
+    3          L2 opt        588   2.74e-05   1.26e-04   2.74e-05       0.39      99.78
+    4 Update database        588   1.56e-05   6.31e-05   1.56e-05       0.22     100.00
+    *            *sum        588          *          *   7.10e-03          *          *
+
+=== Time Profiling @2025-05-15 Thu 10:13:11 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        386   4.19e-03   6.94e-04   4.19e-03      96.82      96.82
+    2        Constell       6936   4.88e-06   1.20e-05   8.76e-05       2.03      98.84
+    1      KNN search       6936   1.76e-06   3.38e-06   3.15e-05       0.73      99.57
+    4 Update database        386   1.27e-05   4.27e-05   1.27e-05       0.29      99.87
+    3          L2 opt        386   5.78e-06   3.09e-05   5.78e-06       0.13     100.00
+    *            *sum        386          *          *   4.33e-03          *          *
+
+=== Time Profiling @2025-05-15 Thu 10:23:17 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        109   2.08e-02   4.89e-03   2.08e-02      99.92      99.92
+    4 Update database        109   9.64e-06   2.65e-06   9.64e-06       0.05      99.96
+    1      KNN search       1962   2.19e-07   5.85e-07   3.94e-06       0.02      99.98
+    3          L2 opt        109   3.63e-06   9.33e-07   3.63e-06       0.02     100.00
+    2        Constell       1962   2.12e-08   2.96e-08   3.81e-07       0.00     100.00
+    *            *sum        109          *          *   2.08e-02          *          *
+
+=== Time Profiling @2025-05-15 Thu 10:33:17 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4661   1.47e-02   6.17e-03   1.47e-02      89.86      89.86
+    2        Constell      82949   4.85e-05   3.28e-05   8.63e-04       5.27      95.13
+    1      KNN search      82949   2.53e-05   1.84e-05   4.51e-04       2.75      97.88
+    3          L2 opt       4661   2.72e-04   4.76e-04   2.72e-04       1.66      99.54
+    4 Update database       4661   7.54e-05   2.17e-04   7.54e-05       0.46     100.00
+    *            *sum       4661          *          *   1.64e-02          *          *
+
+=== Time Profiling @2025-05-15 Thu 10:38:13 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4661   1.46e-02   5.15e-03   1.46e-02      88.66      88.66
+    2        Constell      82949   5.51e-05   5.06e-05   9.81e-04       5.94      94.59
+    1      KNN search      82949   2.68e-05   1.96e-05   4.77e-04       2.89      97.48
+    3          L2 opt       4661   3.38e-04   5.44e-04   3.38e-04       2.05      99.53
+    4 Update database       4661   7.75e-05   2.21e-04   7.75e-05       0.47     100.00
+    *            *sum       4661          *          *   1.65e-02          *          *
+
+=== Time Profiling @2025-05-15 Thu 10:43:53 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.54e-02   4.07e-03   1.54e-02      89.46      89.46
+    2        Constell      72670   4.66e-05   3.38e-05   8.33e-04       4.83      94.28
+    3          L2 opt       4071   4.93e-04   1.66e-03   4.93e-04       2.86      97.14
+    1      KNN search      72670   2.39e-05   1.72e-05   4.26e-04       2.47      99.62
+    4 Update database       4071   6.64e-05   1.74e-04   6.64e-05       0.38     100.00
+    *            *sum       4071          *          *   1.72e-02          *          *
+
+=== Time Profiling @2025-05-15 Thu 16:40:44 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.59e-02   4.24e-03   1.59e-02      89.59      89.59
+    2        Constell      72670   4.74e-05   3.42e-05   8.47e-04       4.78      94.37
+    3          L2 opt       4071   4.95e-04   1.68e-03   4.95e-04       2.79      97.16
+    1      KNN search      72670   2.44e-05   1.76e-05   4.35e-04       2.46      99.62
+    4 Update database       4071   6.67e-05   1.75e-04   6.67e-05       0.38     100.00
+    *            *sum       4071          *          *   1.77e-02          *          *
+
+=== Time Profiling @2025-05-16 Fri 15:13:12 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-16 Fri 15:13:40 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       1035   1.73e-02   5.06e-03   1.73e-02      97.02      97.02
+    2        Constell      18474   1.90e-05   2.42e-05   3.39e-04       1.91      98.92
+    1      KNN search      18474   7.61e-06   7.51e-06   1.36e-04       0.76      99.69
+    3          L2 opt       1035   3.26e-05   1.23e-04   3.26e-05       0.18      99.87
+    4 Update database       1035   2.33e-05   8.70e-05   2.33e-05       0.13     100.00
+    *            *sum       1035          *          *   1.78e-02          *          *
+
+=== Time Profiling @2025-05-16 Fri 15:15:39 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.28e-02   6.34e-03   1.28e-02      87.52      87.52
+    2        Constell      72670   4.65e-05   3.38e-05   8.31e-04       5.69      93.21
+    3          L2 opt       4071   4.94e-04   1.66e-03   4.94e-04       3.38      96.60
+    1      KNN search      72670   2.40e-05   1.74e-05   4.29e-04       2.94      99.54
+    4 Update database       4071   6.77e-05   1.81e-04   6.77e-05       0.46     100.00
+    *            *sum       4071          *          *   1.46e-02          *          *
+
+=== Time Profiling @2025-05-17 Sat 22:24:55 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-17 Sat 22:26:27 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.67e-02   4.32e-03   1.67e-02      89.03      89.03
+    2        Constell      72670   5.01e-05   3.76e-05   8.95e-04       4.78      93.81
+    3          L2 opt       4071   6.14e-04   2.19e-03   6.14e-04       3.28      97.09
+    1      KNN search      72670   2.64e-05   1.94e-05   4.71e-04       2.51      99.60
+    4 Update database       4071   7.54e-05   2.02e-04   7.54e-05       0.40     100.00
+    *            *sum       4071          *          *   1.87e-02          *          *
+
+=== Time Profiling @2025-05-17 Sat 22:38:36 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.61e-02   4.17e-03   1.61e-02      89.28      89.28
+    2        Constell      72670   4.86e-05   3.56e-05   8.68e-04       4.82      94.11
+    3          L2 opt       4071   5.35e-04   1.83e-03   5.35e-04       2.97      97.08
+    1      KNN search      72670   2.54e-05   1.87e-05   4.53e-04       2.52      99.60
+    4 Update database       4071   7.19e-05   1.93e-04   7.19e-05       0.40     100.00
+    *            *sum       4071          *          *   1.80e-02          *          *
+
+=== Time Profiling @2025-05-18 Sun 11:41:26 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti00.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-18 Sun 11:41:44 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti00.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-18 Sun 12:14:29 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti00.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4541   8.36e-03   6.94e-04   8.36e-03      77.88      77.88
+    2        Constell      80918   5.27e-05   3.60e-05   9.39e-04       8.74      86.62
+    3          L2 opt       4541   8.77e-04   1.86e-03   8.77e-04       8.16      94.78
+    1      KNN search      80918   2.73e-05   2.00e-05   4.87e-04       4.53      99.31
+    4 Update database       4541   7.39e-05   2.24e-04   7.39e-05       0.69     100.00
+    *            *sum       4541          *          *   1.07e-02          *          *
+
+=== Time Profiling @2025-05-20 Tue 11:57:08 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti00.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-20 Tue 11:57:58 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-20 Tue 12:00:24 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti08.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4071   1.57e-02   4.40e-03   1.57e-02      89.92      89.92
+    2        Constell      72670   4.48e-05   3.29e-05   8.00e-04       4.60      94.51
+    3          L2 opt       4071   4.81e-04   1.65e-03   4.81e-04       2.76      97.28
+    1      KNN search      72670   2.30e-05   1.65e-05   4.10e-04       2.36      99.63
+    4 Update database       4071   6.44e-05   1.70e-04   6.44e-05       0.37     100.00
+    *            *sum       4071          *          *   1.74e-02          *          *
+
+=== Time Profiling @2025-05-20 Tue 12:14:29 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti02.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4661   1.65e-02   5.43e-03   1.65e-02      90.84      90.84
+    2        Constell      82949   4.86e-05   3.28e-05   8.66e-04       4.76      95.60
+    1      KNN search      82949   2.55e-05   1.85e-05   4.54e-04       2.50      98.09
+    3          L2 opt       4661   2.72e-04   4.78e-04   2.72e-04       1.49      99.59
+    4 Update database       4661   7.50e-05   2.18e-04   7.50e-05       0.41     100.00
+    *            *sum       4661          *          *   1.82e-02          *          *
+
+=== Time Profiling @2025-05-20 Tue 14:53:17 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti00.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       4541   8.40e-03   8.13e-04   8.40e-03      78.11      78.11
+    2        Constell      80918   5.24e-05   3.57e-05   9.33e-04       8.68      86.79
+    3          L2 opt       4541   8.64e-04   1.81e-03   8.64e-04       8.03      94.82
+    1      KNN search      80918   2.72e-05   1.97e-05   4.84e-04       4.50      99.32
+    4 Update database       4541   7.29e-05   2.14e-04   7.29e-05       0.68     100.00
+    *            *sum       4541          *          *   1.08e-02          *          *
+
+=== Time Profiling @2025-05-20 Tue 15:19:13 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   1.55e-02   4.25e-03   1.55e-02      89.09      89.09
+    2        Constell      49256   4.39e-05   3.42e-05   7.83e-04       4.51      93.60
+    3          L2 opt       2761   7.16e-04   1.66e-03   7.16e-04       4.12      97.72
+    1      KNN search      49256   1.97e-05   1.38e-05   3.51e-04       2.02      99.74
+    4 Update database       2761   4.56e-05   1.34e-04   4.56e-05       0.26     100.00
+    *            *sum       2761          *          *   1.74e-02          *          *
+
+=== Time Profiling @2025-05-21 Wed 08:59:04 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-21 Wed 09:02:47 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        658   1.62e-02   4.94e-03   1.62e-02      97.46      97.46
+    2        Constell      11674   1.52e-05   2.17e-05   2.70e-04       1.63      99.09
+    1      KNN search      11674   5.49e-06   5.83e-06   9.74e-05       0.59      99.68
+    3          L2 opt        658   3.70e-05   3.81e-04   3.70e-05       0.22      99.90
+    4 Update database        658   1.66e-05   7.01e-05   1.66e-05       0.10     100.00
+    *            *sum        658          *          *   1.66e-02          *          *
+
+=== Time Profiling @2025-05-21 Wed 09:02:57 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-21 Wed 09:23:39 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        101   2.10e-02   6.36e-03   2.10e-02      99.94      99.94
+    4 Update database        101   7.53e-06   3.23e-06   7.53e-06       0.04      99.97
+    1      KNN search       1817   1.61e-07   3.56e-07   2.90e-06       0.01      99.99
+    3          L2 opt        101   2.79e-06   1.11e-06   2.79e-06       0.01     100.00
+    2        Constell       1817   1.84e-08   1.33e-08   3.30e-07       0.00     100.00
+    *            *sum        101          *          *   2.10e-02          *          *
+
+=== Time Profiling @2025-05-21 Wed 09:39:23 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   1.48e-02   4.46e-03   1.48e-02      88.27      88.27
+    2        Constell      49256   4.65e-05   3.56e-05   8.30e-04       4.95      93.22
+    3          L2 opt       2761   7.25e-04   1.68e-03   7.25e-04       4.32      97.55
+    1      KNN search      49256   2.05e-05   1.45e-05   3.65e-04       2.18      99.72
+    4 Update database       2761   4.63e-05   1.30e-04   4.63e-05       0.28     100.00
+    *            *sum       2761          *          *   1.68e-02          *          *
+
+=== Time Profiling @2025-05-21 Wed 14:59:22 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev        214   3.43e-03   7.85e-04   3.43e-03      99.60      99.60
+    4 Update database        214   8.09e-06   2.11e-06   8.09e-06       0.23      99.83
+    3          L2 opt        214   2.98e-06   1.10e-06   2.98e-06       0.09      99.92
+    1      KNN search       3848   1.37e-07   3.11e-07   2.47e-06       0.07      99.99
+    2        Constell       3848   1.83e-08   2.43e-08   3.30e-07       0.01     100.00
+    *            *sum        214          *          *   3.45e-03          *          *
+
+=== Time Profiling @2025-05-21 Wed 14:59:47 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-22 Thu 08:35:09 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       1300   1.60e-02   4.49e-03   1.60e-02      94.95      94.95
+    2        Constell      23193   2.99e-05   2.91e-05   5.33e-04       3.17      98.12
+    1      KNN search      23193   1.15e-05   9.48e-06   2.05e-04       1.22      99.34
+    3          L2 opt       1300   8.42e-05   3.56e-04   8.42e-05       0.50      99.84
+    4 Update database       1300   2.71e-05   9.10e-05   2.71e-05       0.16     100.00
+    *            *sum       1300          *          *   1.68e-02          *          *
+
+=== Time Profiling @2025-05-25 Sun 15:20:26 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-25 Sun 15:29:57 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   1.60e-02   5.30e-03   1.60e-02      99.83      99.83
+    2 Update database       2761   1.95e-05   7.75e-06   1.95e-05       0.12      99.95
+    1          L2 opt       2761   8.13e-06   5.30e-06   8.13e-06       0.05     100.00
+    *            *sum       2761          *          *   1.60e-02          *          *
+
+=== Time Profiling @2025-05-25 Sun 15:33:27 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   1.46e-02   4.95e-03   1.46e-02      99.84      99.84
+    2 Update database       2761   1.68e-05   1.00e-05   1.68e-05       0.12      99.95
+    1          L2 opt       2761   6.91e-06   5.73e-06   6.91e-06       0.05     100.00
+    *            *sum       2761          *          *   1.46e-02          *          *
+
+=== Time Profiling @2025-05-25 Sun 15:34:46 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   6.86e-03   5.81e-03   6.86e-03      76.52      76.52
+    2        Constell      49256   4.77e-05   3.73e-05   8.51e-04       9.48      86.00
+    3          L2 opt       2761   8.18e-04   1.87e-03   8.18e-04       9.11      95.12
+    1      KNN search      49256   2.16e-05   1.55e-05   3.86e-04       4.30      99.41
+    4 Update database       2761   5.26e-05   1.47e-04   5.26e-05       0.59     100.00
+    *            *sum       2761          *          *   8.97e-03          *          *
+
+=== Time Profiling @2025-05-25 Sun 15:42:55 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   6.94e-03   5.55e-03   6.94e-03      77.64      77.64
+    2        Constell      49256   4.63e-05   3.58e-05   8.25e-04       9.23      86.87
+    3          L2 opt       2761   7.51e-04   1.73e-03   7.51e-04       8.40      95.27
+    1      KNN search      49256   2.10e-05   1.50e-05   3.74e-04       4.19      99.46
+    4 Update database       2761   4.85e-05   1.35e-04   4.85e-05       0.54     100.00
+    *            *sum       2761          *          *   8.94e-03          *          *
+
+=== Time Profiling @2025-05-25 Sun 15:45:40 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   5.48e-03   5.36e-03   5.48e-03      72.41      72.41
+    2        Constell      49256   4.77e-05   3.69e-05   8.51e-04      11.24      83.65
+    3          L2 opt       2761   8.01e-04   1.83e-03   8.01e-04      10.58      94.23
+    1      KNN search      49256   2.16e-05   1.52e-05   3.86e-04       5.09      99.32
+    4 Update database       2761   5.12e-05   1.41e-04   5.12e-05       0.68     100.00
+    *            *sum       2761          *          *   7.57e-03          *          *
+
+=== Time Profiling @2025-05-25 Sun 15:58:43 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   6.15e-03   4.86e-03   6.15e-03      75.61      75.61
+    2        Constell      49256   4.61e-05   3.57e-05   8.22e-04      10.11      85.72
+    3          L2 opt       2761   7.41e-04   1.73e-03   7.41e-04       9.11      94.83
+    1      KNN search      49256   2.09e-05   1.52e-05   3.73e-04       4.58      99.42
+    4 Update database       2761   4.75e-05   1.32e-04   4.75e-05       0.58     100.00
+    *            *sum       2761          *          *   8.13e-03          *          *
+
+=== Time Profiling @2025-05-25 Sun 16:00:49 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   5.47e-03   3.44e-03   5.47e-03      72.28      72.28
+    2        Constell      49256   4.66e-05   3.74e-05   8.31e-04      10.99      83.26
+    3          L2 opt       2761   8.25e-04   1.91e-03   8.25e-04      10.90      94.17
+    1      KNN search      49256   2.18e-05   1.63e-05   3.89e-04       5.14      99.31
+    4 Update database       2761   5.25e-05   1.47e-04   5.25e-05       0.69     100.00
+    *            *sum       2761          *          *   7.56e-03          *          *
+
+=== Time Profiling @2025-05-25 Sun 17:42:13 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   1.62e-02   9.14e-03   1.62e-02      88.91      88.91
+    2        Constell      49256   4.75e-05   3.67e-05   8.48e-04       4.66      93.56
+    3          L2 opt       2761   7.43e-04   1.72e-03   7.43e-04       4.08      97.64
+    1      KNN search      49256   2.13e-05   1.56e-05   3.81e-04       2.09      99.74
+    4 Update database       2761   4.80e-05   1.35e-04   4.80e-05       0.26     100.00
+    *            *sum       2761          *          *   1.82e-02          *          *
+
+=== Time Profiling @2025-05-26 Mon 10:44:01 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-26 Mon 10:45:11 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   1.58e-02   4.45e-03   1.58e-02      88.96      88.96
+    2        Constell      49256   4.55e-05   3.53e-05   8.12e-04       4.56      93.53
+    3          L2 opt       2761   7.40e-04   1.72e-03   7.40e-04       4.16      97.68
+    1      KNN search      49256   2.05e-05   1.47e-05   3.66e-04       2.06      99.74
+    4 Update database       2761   4.61e-05   1.30e-04   4.61e-05       0.26     100.00
+    *            *sum       2761          *          *   1.78e-02          *          *
+
+=== Time Profiling @2025-05-26 Mon 12:47:45 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index  Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    *  *sum          0          *          *   0.00e+00          *          *
+
+=== Time Profiling @2025-05-26 Mon 13:02:50 +0800 ===
+=== Description: /home/zgy/ROS/contour_context/src/contour-context-main/results/outcome_txt/outcome-kitti05.txt
+Index            Name      Count    Average     Stddev   Per loop     Loop %    Accum %
+    0        make bev       2761   1.59e-02   4.29e-03   1.59e-02      89.24      89.24
+    2        Constell      49256   4.44e-05   3.47e-05   7.93e-04       4.45      93.68
+    3          L2 opt       2761   7.24e-04   1.67e-03   7.24e-04       4.06      97.74
+    1      KNN search      49256   2.00e-05   1.44e-05   3.57e-04       2.00      99.74
+    4 Update database       2761   4.65e-05   1.34e-04   4.65e-05       0.26     100.00
+    *            *sum       2761          *          *   1.78e-02          *          *
